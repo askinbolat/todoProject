@@ -1,0 +1,15 @@
+C:\Users\msi-nb\Desktop\todoProject\bin\Debug\net7.0\todoProject.exe
+C:\Users\msi-nb\Desktop\todoProject\bin\Debug\net7.0\todoProject.deps.json
+C:\Users\msi-nb\Desktop\todoProject\bin\Debug\net7.0\todoProject.runtimeconfig.json
+C:\Users\msi-nb\Desktop\todoProject\bin\Debug\net7.0\todoProject.dll
+C:\Users\msi-nb\Desktop\todoProject\bin\Debug\net7.0\todoProject.pdb
+C:\Users\msi-nb\Desktop\todoProject\obj\Debug\net7.0\todoProject.csproj.AssemblyReference.cache
+C:\Users\msi-nb\Desktop\todoProject\obj\Debug\net7.0\todoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi-nb\Desktop\todoProject\obj\Debug\net7.0\todoProject.AssemblyInfoInputs.cache
+C:\Users\msi-nb\Desktop\todoProject\obj\Debug\net7.0\todoProject.AssemblyInfo.cs
+C:\Users\msi-nb\Desktop\todoProject\obj\Debug\net7.0\todoProject.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\Desktop\todoProject\obj\Debug\net7.0\todoProject.dll
+C:\Users\msi-nb\Desktop\todoProject\obj\Debug\net7.0\refint\todoProject.dll
+C:\Users\msi-nb\Desktop\todoProject\obj\Debug\net7.0\todoProject.pdb
+C:\Users\msi-nb\Desktop\todoProject\obj\Debug\net7.0\todoProject.genruntimeconfig.cache
+C:\Users\msi-nb\Desktop\todoProject\obj\Debug\net7.0\ref\todoProject.dll
